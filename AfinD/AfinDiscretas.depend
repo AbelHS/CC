@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1491608544 source:c:\users\rossy\desktop\afindiscretas\main.cpp
+	"Afin.h"
+
+1491606946 source:c:\users\rossy\desktop\afindiscretas\src\global.cpp
+	"Global.h"
+
+1491606946 c:\users\rossy\desktop\afindiscretas\include\global.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1491608572 source:c:\users\rossy\desktop\afindiscretas\src\afin.cpp
+	"Afin.h"
+
+1491608389 c:\users\rossy\desktop\afindiscretas\include\afin.h
+	"Global.h"
+
+1491660802 source:c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\src\afin.cpp
+	"Afin.h"
+
+1491660802 c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\include\afin.h
+	"Global.h"
+
+1491628238 c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\include\global.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1491660541 source:c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\src\global.cpp
+	"Global.h"
+
+1491661048 source:c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\main.cpp
+	"Afin.h"
+	<fstream>
+
