@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1491608544 source:c:\users\rossy\desktop\afindiscretas\main.cpp
+	"Afin.h"
+
+1491606946 source:c:\users\rossy\desktop\afindiscretas\src\global.cpp
+	"Global.h"
+
+1491606946 c:\users\rossy\desktop\afindiscretas\include\global.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1491608572 source:c:\users\rossy\desktop\afindiscretas\src\afin.cpp
+	"Afin.h"
+
+1491608389 c:\users\rossy\desktop\afindiscretas\include\afin.h
+	"Global.h"
+
+1491660802 source:c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\src\afin.cpp
+	"Afin.h"
+
+1491660802 c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\include\afin.h
+	"Global.h"
+
+1491628238 c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\include\global.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1491660541 source:c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\src\global.cpp
+	"Global.h"
+
+1491661048 source:c:\users\phyrox\downloads\cc-master\cc-master\afindiscretas\main.cpp
+	"Afin.h"
+	<fstream>
+
+1491871472 source:c:\users\rossy\downloads\cc-master\cc-master\afind\main.cpp
+	"Afin.h"
+	<fstream>
+
+1491872604 c:\users\rossy\downloads\cc-master\cc-master\afind\include\afin.h
+	"Global.h"
+
+1491867850 c:\users\rossy\downloads\cc-master\cc-master\afind\include\global.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1491867674 source:c:\users\rossy\downloads\cc-master\cc-master\afind\src\global.cpp
+	"Global.h"
+
+1491873005 source:c:\users\rossy\downloads\cc-master\cc-master\afind\src\afin.cpp
+	"Afin.h"
+
