@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1492872156 source:c:\users\phyrox\desktop\t\rsa\src\global.cpp
+	"GLOBAL.h"
+
+1492872156 c:\users\phyrox\desktop\t\rsa\include\global.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<NTL/ZZ.h>
+
+1492875478 source:c:\users\phyrox\desktop\t\rsa\src\rsa.cpp
+	"RSA.h"
+
+1492874982 c:\users\phyrox\desktop\t\rsa\include\rsa.h
+	"GLOBAL.h"
+
+1492875421 source:c:\users\phyrox\desktop\t\rsa\main.cpp
+	"RSA.h"
+	<iostream>
+	<string>
+
