@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494641622 source:c:\users\phyrox\desktop\algebra abstracta\dddd\main.cpp
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<NTL/ZZ.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"global.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<NTL/ZZ.h>
+
