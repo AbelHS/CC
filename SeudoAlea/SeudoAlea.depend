@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1494098417 source:c:\users\phyrox\desktop\algebra abstracta\seudoalea\main.cpp
+	<fstream>
+	<stdio.h>
+	<NTL/ZZ.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<windows.h>
+
